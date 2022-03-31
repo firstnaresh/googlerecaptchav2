@@ -3,7 +3,7 @@
 
 Google Recaptcha V2 Implementation in PHP
 
-Steps to use
+Files Included
 
 1. index.php 
 
